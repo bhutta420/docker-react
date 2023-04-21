@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          kal eid hai
+          kal eid hai finally
         </a>
       </header>
     </div>
